@@ -1,0 +1,30 @@
+10:21:10 **** Incremental Build of configuration Release for project Test_Wydriver_IT_V1 ****
+make all 
+Building target: Test_Wydriver_IT_V1
+Invoking: GCC C Linker
+gcc -L"/home/wymauser/Test_Wydriver_IT/Test_Wydriver_IT_V1/WyDriver_IT" -o "Test_Wydriver_IT_V1"  ./src/Test_Wydriver.o ./src/USERCOMM.o   -lWyDriver_IT_V1
+Finished building target: Test_Wydriver_IT_V1
+ 
+10:22:10 **** Incremental Build of configuration Release for project Test_Wydriver_IT_V1 ****
+make all 
+make: Nada a ser feito para `all'.
+22:50:22 **** Build of configuration Release for project Test_Wydriver_IT_V1 ****
+make all 
+Building file: ../src/Test_Wydriver.c
+Invoking: GCC C Compiler
+gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Test_Wydriver.d" -MT"src/Test_Wydriver.o" -o "src/Test_Wydriver.o" "../src/Test_Wydriver.c"
+Finished building: ../src/Test_Wydriver.c
+ 
+Building file: ../src/USERCOMM.c
+Invoking: GCC C Compiler
+gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/USERCOMM.d" -MT"src/USERCOMM.o" -o "src/USERCOMM.o" "../src/USERCOMM.c"
+Finished building: ../src/USERCOMM.c
+ 
+Building target: Test_Wydriver_IT_V1
+Invoking: GCC C Linker
+gcc -L"/home/wymauser/Documents/Projetos Linux/Test_Wydriver_IT/Test_Wydriver_IT_V1/WyDriver_IT" -o "Test_Wydriver_IT_V1"  ./src/Test_Wydriver.o ./src/USERCOMM.o    -lWyDriver_IT_V1
+Finished building target: Test_Wydriver_IT_V1
+ 
+22:51:35 **** Incremental Build of configuration Release for project Test_Wydriver_IT_V1 ****
+make all 
+make: Nothing to be done for 'all'.

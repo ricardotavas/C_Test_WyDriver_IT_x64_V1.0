@@ -1,0 +1,6 @@
+22:51:35 **** Incremental Build of configuration Release for project Test_Wydriver_IT_V1 ****
+make all 
+make: Nothing to be done for 'all'.
+
+22:51:40 Build Finished. 0 errors, 0 warnings. (took 5s.362ms)
+
